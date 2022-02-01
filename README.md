@@ -31,3 +31,6 @@ To use the following command, make sure you have gradle.properties file with Key
 ```
 ./gradlew hello-world:deployToSejong
 ```
+
+## Deployment
+[Deployed here](https://sejong.tracker.solidwallet.io/contract/cx2f97f267caf9f7da1a7855f2f75d331a47f8f4e7)
