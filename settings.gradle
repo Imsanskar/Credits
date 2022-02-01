@@ -1,0 +1,4 @@
+rootProject.name = 'IRC2-token'
+include (
+    'irc2-token',
+)
